@@ -21,8 +21,11 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "ast-eval": "^0.8.0",
+        "escodegen": "^1.11.0",
         "esprima": "^4.0.0",
-        "jquery": "^3.3.1"
+        "jquery": "^3.3.1",
+        "static-eval": "^2.0.0"
     },
     "devDependencies": {
         "cross-env": "^5.2.0",
